@@ -1,8 +1,8 @@
-version: 1.1.1
+version: 1.1.2
 files:
-  - url: Cobra-Executor-Setup-1.1.1.exe
-    sha512: 0IzC+xcgm0QPnu8oSNPbr5x8BOsPdLUpP33/kpO9ZBXoGLy13WuBBO1uu0Ly4ABSJfmwGwx0/eYlt1DPTWFKfQ==
-    size: 98814280
-path: Cobra-Executor-Setup-1.1.1.exe
-sha512: 0IzC+xcgm0QPnu8oSNPbr5x8BOsPdLUpP33/kpO9ZBXoGLy13WuBBO1uu0Ly4ABSJfmwGwx0/eYlt1DPTWFKfQ==
-releaseDate: '2025-06-09T10:11:30.722Z'
+  - url: Cobra-Executor-Setup-1.1.2.exe
+    sha512: SXWesTM9iw0kuQo4pJWrTcuC4QkC/noetnHbKYk4oyatU+faJT3P1Qg8yeQp/PJWlyB7Q3lJUm0QnJs8rolWCA==
+    size: 98814672
+path: Cobra-Executor-Setup-1.1.2.exe
+sha512: SXWesTM9iw0kuQo4pJWrTcuC4QkC/noetnHbKYk4oyatU+faJT3P1Qg8yeQp/PJWlyB7Q3lJUm0QnJs8rolWCA==
+releaseDate: '2025-06-09T10:31:01.688Z'
